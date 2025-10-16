@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useState } from "react";
-import { initializeGame, processMove } from "./useSwipe";
+import { initializeGame, processMove } from "./gamelogic";
 
 export const useGameState = (initialSize = 4) => {
   const [boardSize, setBoardSize] = useState(initialSize);

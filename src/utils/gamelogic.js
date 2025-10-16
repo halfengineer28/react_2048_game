@@ -71,7 +71,7 @@ const rotateBoard = (board) => {
   const rotated = createEmptyBoard(size);
   for (let i = 0; i < size; i++) {
     for (let j = 0; j < size; j++) {
-      rotated[j][size - 1 - j] = board[i][j];
+      rotated[j][size - 1 - i] = board[i][j];
     }
   }
   return rotated;
