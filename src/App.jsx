@@ -42,7 +42,7 @@ const App = () => {
         <div className="mt-6 bg-white rounded-lg p-4 shadow-md">
           <h3 className="font-semibold text-gray-700 mb-2">How to Play:</h3>
           <p className="text-sm text-gray-600 mb-3">
-            Use arrow keys or WASD to move tiles. Tiles with the same number
+            Use arrow keys  to move tiles. Tiles with the same number
             merge into one when they touch. Create a tile with the number 2048
             to win!
           </p>
