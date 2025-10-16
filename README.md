@@ -8,6 +8,9 @@ A clean implementation of the classic 2048 puzzle game built with React and Vite
 <img width="1247" height="807" alt="Screenshot 2025-10-16 232932" src="https://github.com/user-attachments/assets/6f9ee840-ce04-4f75-8097-9a2ed798449a" />
 
 
+🎮 **[Play Live Demo](https://react-2048-game-brown.vercel.app/)** 🎮
+
+
 ## ✨ Features
 
 - Clean and responsive UI
